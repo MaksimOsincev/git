@@ -71,3 +71,51 @@ color:mediumvioletred
     color: green;
     border: 1px solid blue;
 }
+#flex-start{
+    display: inline-flex;
+    background-color: white;
+    width: 200px;
+}
+#cor{
+    margin: 3px;
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+}
+#cor2{
+    margin: 3px;
+    width: 50px;
+    height: 50px;
+    background-color: red;
+}
+#cor3{
+    margin: 3px;
+    width: 50px;
+    height: 50px;
+    background-color: green;
+}
+#flex-end{
+    display: inline-flex;
+    background-color: white;
+    justify-content: flex-end;
+    width: 200PX;
+
+}
+#cok{
+margin: 3px;
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+}
+#cok2{
+margin: 3px;
+    width: 50px;
+    height: 50px;
+    background-color: red;
+}
+#cok3{
+margin: 3px;
+    width: 50px;
+    height: 50px;
+    background-color: green;
+}
