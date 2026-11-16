@@ -49,3 +49,25 @@ color:green
 .sd3{
 color:mediumvioletred
 }
+#qwerty{
+    margin: 10px;
+    width: 250px;
+    display: block;
+    border: 3px solid red;
+    padding: 10px;
+}
+#asa{
+    display: inline;
+    color: green;
+    border: 1px solid blue;
+}
+#asa2{
+    display: inline;
+    color: green;
+    border: 1px solid blue;
+}
+#asa3{
+    display: inline;
+    color: green;
+    border: 1px solid blue;
+}
