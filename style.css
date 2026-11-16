@@ -1,0 +1,51 @@
+body {
+  background-image: url("https://i.pinimg.com/originals/68/ee/c0/68eec03c82d394b1c148a2212ba2248a.jpg");
+}
+ul {
+  list-style: decimal;
+}
+h1 {
+    color: #ff0400;
+}
+div {
+    color:rgb(55, 66, 221)
+}
+p {
+    color:#02fd73
+}
+td {
+color:#ff04ff
+}
+table {
+    color:#e4fd02
+}
+#parrent{
+    width: 300px;
+    border: 2px solid red;
+}
+#child{
+height: 250px;
+border: 3px dashed purple;
+margin: 30px;
+background-color: hotpink
+}
+#vnik{
+    height: 180px;
+    border: 5px double aquamarine;
+    margin: 40px;
+    background-color: white
+}
+.r{
+    margin: 10;
+    padding: 3;
+    color: #545755;
+} 
+.sd1{
+color:#0a0c92
+}
+.sd2{
+color:green
+}
+.sd3{
+color:mediumvioletred
+}
